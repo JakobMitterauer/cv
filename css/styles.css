@@ -1,0 +1,20 @@
+body
+{
+  background-color: #D8DFE2;
+  font-family: 'Roboto', sans-serif;
+}
+hr
+{
+  border-style: dotted none none;
+  border-color: #0D3446;
+  border-width: 5px;
+  width: 10%;
+}
+h1
+{
+  color: #0D3446;
+}
+h3
+{
+  color: #176D81;
+}
